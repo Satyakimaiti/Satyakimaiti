@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hi, I'm Satyaki! 🚀🎓 <br>Final-year CS undergrad at KIIT. <br>🤖 Deep Learning & NLP Geek: Passionate about building intelligent systems that solve real-world problems. <br>💻 Current Stack: Python, C++, TensorFlow, and AWS. <br>🌟 Recent Wins: Built a real-time Smart Agriculture App and an AI Code Generator using Llama3. <br>⚽ When not coding, I'm likely playing football or listening to music. 
+Hi, I'm Satyaki! 🚀🎓 <br>
+Final-year CS undergrad at KIIT. <br>
+🤖 Deep Learning & NLP Geek: Passionate about building intelligent systems that solve real-world problems. <br>
+💻 Current Stack: Python, C++, TensorFlow, and AWS. <br>
+🌟 Recent Wins: Built a real-time Smart Agriculture App and an AI Code Generator using Llama3. <br>
+⚽ When not coding, I'm likely playing football or listening to music. 
 
 
 # 💻 Tech Stack:
